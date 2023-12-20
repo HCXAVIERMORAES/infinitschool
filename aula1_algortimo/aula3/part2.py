@@ -1,0 +1,5 @@
+batata1 = range(5)
+batata2 = range(1,5)
+batata3 = range(5)
+print(batata1)
+print(batata2)
